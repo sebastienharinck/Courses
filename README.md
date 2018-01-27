@@ -44,6 +44,11 @@ I try to put here all available ressources on internet that I found useful.
 - https://petewarden.com/
 - https://lukasbiewald.com/
 
+### People to follow
+- Siraj Raval
+- Yann LeCun
+- SendTex
+
 ### Tutos
 
 #### python
@@ -51,6 +56,9 @@ I try to put here all available ressources on internet that I found useful.
 
 #### scrapy
 - https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/
+
+#### Unity Machine Learning
+- https://www.youtube.com/watch?v=61_FtB1PhaM
 
 ### Videos
 

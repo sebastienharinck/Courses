@@ -66,53 +66,53 @@ I try to put here all available ressources on internet that I found useful.
 - https://deeplearning4j.org/deeplearningforbeginners.html
 
 ### Books
-- amazon books : https://www.amazon.com/Best-Sellers-Books-AI-Machine-Learning/zgbs/books/3887
-- https://www.amazon.com/How-Create-Mind-Thought-Revealed-ebook/dp/B007V65UUG/ref=zg_bs_3887_2?_encoding=UTF8&psc=1&refRID=RMYJMMVF628704GC4ANT
-- Joel Grus, Data Science from Scratch (O’Reilly)
-- Stephen Marsland, Machine Learning: An Algorithmic Perspective (Chapman and Hall)
-- Sebastian Raschka, Python Machine Learning (Packt Publishing)
-- Yaser S. Abu-Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin, Learning from Data (AMLBook)
-- Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach, 3rd Edition (Pearson)
-- Programming Collective Intelligence
-- Machine Learning for Hackers
-- Machine Learning by Tom M Mitchell
-- The Elements of Statistical Learning
-- Learning from Data
-- Pattern Recognition and Machine Learning
-- Artificial Intelligence: A Modern Approach
-- Artificial Intelligence for Humans
-- Paradigm of Artificial Intelligence Programming
-- Artificial Intelligence: A New Synthesis
-- The Emotion Machine: Commonsense Thinking, Artificial Intelligence and the Future of Human Mind
-- Artificial Intelligence (3rd Edition) by Patrick Henry Winston
-- Think Stats: Probability and Statistics for Programmers
-- Probabilistic Programming & Bayesian Methods for Hackers
-- Understanding Machine Learning: From Theory to Algorithms
-- An Introduction to Statistical Learning with Applications in R
-- Foundations of Data Science
-- Programmer's Guide to Data Mining: The Ancient Art of the Numerati
-- Mining of Massive Datasets
-- Machine Learning Yearning
-- Building Machine Learning Systems with Python - Willi Richert, Luis Pedro Coelho
-- Learning scikit-learn: Machine Learning in Python - Raúl Garreta, Guillermo Moncecchi
-- Machine Learning in Action - Peter Harrington
-- Machine Learning: An Algorithmic Perspective - Stephen Marsland
-- Machine Learning For Dummies
-- Machine Learning: The New AI
-- Machine Learning: The Art and Science of Algorithms that Make Sense of Data
-- Python Machine Learning
-- Data Science from Scratch: First Principles with Python
-- Make Your Own Neural Network
-- Fundamentals of Machine Learning for Predictive Data Analytics
-- Matrix Computations
-- A Probabilistic Theory of Pattern Recognition
-- Advanced Engineering Mathematics
-- robability and Statistics Cookbook
-- Bayesian Reasoning and Machine Learning
-- Information Theory, Inference, and Learning Algorithms
-- Neural Networks and Deep Learning
-- Supervised Sequence Labelling with Recurrent Neural Networks
-- Reinforcement Learning: An Introduction
+- [Amazon books](https://www.amazon.com/Best-Sellers-Books-AI-Machine-Learning/zgbs/books/3887)
+- https://www.amazon.com/How-Create-Mind-Thought-Revealed-ebook/dp/B007V65UUG/ref=zg_bs_3887_2?_encoding=UTF8&psc=1&refRID=RMYJMMVF628704GC4ANT : 
+- [Data Science from]() Scratch by Joel Grus
+- [Machine Learning: An Algorithmic Perspective]() by Stephen Marsland, 
+- [Python Machine Learning]() by Sebastian Raschka
+- [Learning from Data by Yaser]() S. Abu-Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin,
+- [Artificial Intelligence: A Modern Approach, 3rd Edition]() by Stuart Russell and Peter Norvig, 
+- [Programming Collective Intelligence]()
+- [Machine Learning for Hackers]()
+- [Machine Learning by Tom M Mitchell
+- [The Elements of Statistical Learning]()
+- [Learning from Data]()
+- [Pattern Recognition and Machine Learning]()
+- [Artificial Intelligence: A Modern Approach]()
+- [Artificial Intelligence for Humans]()
+- [Paradigm of Artificial Intelligence Programming]()
+- [Artificial Intelligence: A New Synthesis]()
+- [The Emotion Machine: Commonsense Thinking, Artificial Intelligence and the Future of Human Mind]()
+- [Artificial Intelligence (3rd Edition)]() by Patrick Henry Winston
+- [Think Stats: Probability and Statistics for Programmers]()
+- [Probabilistic Programming & Bayesian Methods for Hackers]()
+- [Understanding Machine Learning: From Theory to Algorithms]()
+- [An Introduction to Statistical Learning with Applications in R]()
+- [Foundations of Data Science]()
+- [Programmer's Guide to Data Mining: The Ancient Art of the Numerati]()
+- [Mining of Massive Datasets]()
+- [Machine Learning Yearning]()
+- [Building Machine Learning Systems with Python]() by Willi Richert, Luis Pedro Coelho
+- [Learning scikit-l[earn: Machine Learning in Python]() by Raúl Garreta, Guillermo Moncecchi
+- [Machine Learning in Action]() by Peter Harrington
+- [Machine Learning: An Algorithmic Perspective]() by Stephen Marsland
+- [Machine Learning For Dummies]()
+- [Machine Learning: The New AI]()
+- [Machine Learning: The Art and Science of Algorithms that Make Sense of Data]()
+- [Python Machine Learning]()
+- [Data Science from Scratch: First Principles with Python]()
+- [Make Your Own Neural Network]()
+- [Fundamentals of Machine Learning for Predictive Data Analytics]()
+- [Matrix Computations]()
+- [A Probabilistic Theory of Pattern Recognition]()
+- [Advanced Engineering Mathematics]()
+- [robability and Statistics Cookbook]()
+- [Bayesian Reasoning and Machine Learning]()
+- [Information Theory, Inference, and Learning Algorithms]()
+- [Neural Networks and Deep Learning]()
+- [Supervised Sequence Labelling with Recurrent Neural Networks]()
+- [Reinforcement Learning: An Introduction]()
 
 ### Algorithms
 #### General

@@ -101,6 +101,17 @@ I try to put here all available ressources on internet that I found useful.
 - Programmer's Guide to Data Mining: The Ancient Art of the Numerati
 - Mining of Massive Datasets
 - Machine Learning Yearning
+- Building Machine Learning Systems with Python - Willi Richert, Luis Pedro Coelho
+- Learning scikit-learn: Machine Learning in Python - Raúl Garreta, Guillermo Moncecchi
+- Machine Learning in Action - Peter Harrington
+- Machine Learning: An Algorithmic Perspective - Stephen Marsland
+- Machine Learning For Dummies
+- Machine Learning: The New AI
+- Machine Learning: The Art and Science of Algorithms that Make Sense of Data
+- Python Machine Learning
+- Data Science from Scratch: First Principles with Python
+- Make Your Own Neural Network
+- Fundamentals of Machine Learning for Predictive Data Analytics
 
 #### Introduction
 

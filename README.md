@@ -68,34 +68,31 @@ I try to put here all available ressources on internet that I found useful.
 ### Books
 - [Amazon books](https://www.amazon.com/Best-Sellers-Books-AI-Machine-Learning/zgbs/books/3887)
 - [How to Create a Mind: The Secret of Human Thought Revealed](https://www.amazon.com/How-Create-Mind-Thought-Revealed-ebook/dp/B007V65UUG/ref=zg_bs_3887_2?_encoding=UTF8&psc=1&refRID=RMYJMMVF628704GC4ANT) by Ray Kurzweil 
-- [Data Science from]() Scratch by Joel Grus
-- [Machine Learning: An Algorithmic Perspective]() by Stephen Marsland, 
-- [Python Machine Learning]() by Sebastian Raschka
-- [Learning from Data by Yaser]() S. Abu-Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin,
-- [Artificial Intelligence: A Modern Approach, 3rd Edition]() by Stuart Russell and Peter Norvig, 
-- [Programming Collective Intelligence]()
-- [Machine Learning for Hackers]()
-- [Machine Learning]() by Tom M Mitchell
-- [The Elements of Statistical Learning]()
-- [Learning from Data]()
-- [Pattern Recognition and Machine Learning]()
-- [Artificial Intelligence: A Modern Approach]()
-- [Artificial Intelligence for Humans]()
-- [Paradigm of Artificial Intelligence Programming]()
-- [Artificial Intelligence: A New Synthesis]()
-- [The Emotion Machine: Commonsense Thinking, Artificial Intelligence and the Future of Human Mind]()
-- [Artificial Intelligence (3rd Edition)]() by Patrick Henry Winston
-- [Think Stats: Probability and Statistics for Programmers]()
-- [Probabilistic Programming & Bayesian Methods for Hackers]()
-- [Understanding Machine Learning: From Theory to Algorithms]()
-- [An Introduction to Statistical Learning with Applications in R]()
-- [Foundations of Data Science]()
-- [Programmer's Guide to Data Mining: The Ancient Art of the Numerati]()
-- [Mining of Massive Datasets]()
-- [Machine Learning Yearning]()
-- [Building Machine Learning Systems with Python]() by Willi Richert, Luis Pedro Coelho
-- [Learning scikit-learn: Machine Learning in Python]() by Raúl Garreta, Guillermo Moncecchi
-- [Machine Learning in Action]() by Peter Harrington
+- [Data Science from Scratch](https://www.amazon.com/Data-Science-Scratch-Principles-Python/dp/149190142X)  by Joel Grus
+- [Machine Learning: An Algorithmic Perspective](https://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1420067184) by Stephen Marsland, 
+- [Python Machine Learning](https://www.amazon.fr/Python-Machine-Learning-Sebastian-Raschka/dp/1783555130) by Sebastian Raschka
+- [Learning from Data](https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069) by Yaser S. Abu-Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin,
+- [Artificial Intelligence: A Modern Approach, 3rd Edition](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) by Stuart Russell and Peter Norvig, 
+- [Programming Collective Intelligence](https://www.amazon.com/Programming-Collective-Intelligence-Building-Applications/dp/0596529325) by Toby Segaran
+- [Machine Learning for Hackers](https://www.amazon.com/Machine-Learning-Hackers-Studies-Algorithms/dp/1449303714) by Drew Conway and John Myles White 
+- [Machine Learning](https://www.amazon.fr/Machine-Learning-Mitchell/dp/1259096955/ref=la_B000APT5O2_1_1?s=books&ie=UTF8&qid=1517152019&sr=1-1) by Tom M Mitchell
+- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf) by Trevor Hastie, Robert Tibshirani, Jerome H. Friedman
+- [Pattern Recognition and Machine Learning](https://www.amazon.fr/Pattern-Recognition-Machine-Learning-Christopher/dp/0387310738) by Christopher M. Bishop
+- [Artificial Intelligence for Humans](https://www.amazon.fr/Artificial-Intelligence-Humans-Fundamental-Algorithms-ebook/dp/B00HAT0APE) by Jeff Heaton
+- [Paradigm of Artificial Intelligence Programming](https://www.amazon.fr/Paradigms-Artificial-Intelligence-Programming-Studies/dp/1558601910) by Peter Norvig
+- [Artificial Intelligence: A New Synthesis](https://www.amazon.fr/Artificial-Intelligence-Synthesis-Nils-Nilsson/dp/1558604677) by Nils J. Nilsson 
+- [The Emotion Machine: Commonsense Thinking, Artificial Intelligence and the Future of Human Mind](https://www.amazon.fr/Emotion-Machine-Commonsense-Artificial-Intelligence/dp/0743276647) by Marvin Minsky
+- [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/thinkstats.pdf) by Allen B. Downey
+- [Probabilistic Programming & Bayesian Methods for Hackers](https://www.amazon.com/Bayesian-Methods-Hackers-Probabilistic-Addison-Wesley/dp/0133902838) by Cameron Davidson-Pilon
+- [Understanding Machine Learning: From Theory to Algorithms](https://www.amazon.fr/Understanding-Machine-Learning-Theory-Algorithms/dp/1107057132) by Shai Shalev-Shwartz and Shai Ben-David
+- [An Introduction to Statistical Learning with Applications in R](https://www.amazon.com/Introduction-Statistical-Learning-Applications-Statistics/dp/1461471370) by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani
+- [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book.pdf) by Avrim Blum, John Hopcroft, and Ravindran Kannan
+- [Programmer's Guide to Data Mining: The Ancient Art of the Numerati](http://guidetodatamining.com/) by Ron Zacharski
+- [Mining of Massive Datasets](https://www.amazon.fr/Mining-Massive-Datasets-Anand-Rajaraman/dp/1107015359) by Anand Rajaraman and Jeffrey David Ullman
+- [Machine Learning Yearning](http://www.mlyearning.org/) by Andrew Ng
+- [Building Machine Learning Systems with Python](https://www.amazon.fr/Building-Machine-Learning-Systems-Python/dp/1784392774) by Willi Richert, Luis Pedro Coelho
+- [Learning scikit-learn: Machine Learning in Python](https://www.amazon.fr/Learning-scikit-learn-Machine-Python/dp/1783281936) by Raúl Garreta, Guillermo Moncecchi
+- [Machine Learning in Action](https://www.amazon.fr/Machine-Learning-Action-Peter-Harrington/dp/1617290181) by Peter Harrington
 - [Machine Learning: An Algorithmic Perspective]() by Stephen Marsland
 - [Machine Learning For Dummies]()
 - [Machine Learning: The New AI]()

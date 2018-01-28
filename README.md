@@ -60,6 +60,12 @@ I try to put here all available ressources on internet that I found useful.
 #### Unity Machine Learning
 - https://www.youtube.com/watch?v=61_FtB1PhaM
 
+#### Machine Learning
+- http://ruder.io/optimizing-gradient-descent/index.html#rmsprop
+
+#### gcloud
+- https://medium.com/google-cloud/running-jupyter-notebooks-on-gpu-on-google-cloud-d44f57d22dbd
+
 ### Videos
 
 #### Introduction
@@ -112,18 +118,30 @@ I try to put here all available ressources on internet that I found useful.
 - Data Science from Scratch: First Principles with Python
 - Make Your Own Neural Network
 - Fundamentals of Machine Learning for Predictive Data Analytics
+- Matrix Computations
+- A Probabilistic Theory of Pattern Recognition
+- Advanced Engineering Mathematics
+- robability and Statistics Cookbook
+- Bayesian Reasoning and Machine Learning
+- Information Theory, Inference, and Learning Algorithms
+- Neural Networks and Deep Learning
+- Supervised Sequence Labelling with Recurrent Neural Networks
+- Reinforcement Learning: An Introduction
 
 #### Introduction
 
 #### General
 
 ### Programs
+- https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
 - https://www.coursera.org/learn/machine-learning/
 - https://www.coursera.org/learn/neural-networks
 - https://www.dataquest.io/
 - https://www.quora.com/What-are-the-best-regularly-updated-machine-learning-blogs-or-resources-available
 - http://deeplearning.net/
 - https://github.com/ageron/handson-ml
+- https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/
+- http://course.fast.ai/
 
 ### Algorithms
 #### CNN

@@ -194,11 +194,9 @@ I try to put here all available ressources on internet that I found useful.
 ### AI Solutions
 - https://www.clarifai.com/
 
-### Amazing
+### Others
 - https://futurism.com/an-ai-can-recreate-your-favorite-old-school-video-game-just-by-watching-someone-play-it/
 - https://www.ted.com/talks/joseph_redmon_how_a_computer_learns_to_recognize_objects_instantly#t-394057
-
-### others 
 - http://www.kennybastani.com/2014/08/using-graph-database-for-deep-learning-text-classification.html
 - https://www.kernix.com/blog/an-efficient-recommender-system-based-on-graph-database_p9
 - https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3

@@ -93,23 +93,20 @@ I try to put here all available ressources on internet that I found useful.
 - [Building Machine Learning Systems with Python](https://www.amazon.fr/Building-Machine-Learning-Systems-Python/dp/1784392774) by Willi Richert, Luis Pedro Coelho
 - [Learning scikit-learn: Machine Learning in Python](https://www.amazon.fr/Learning-scikit-learn-Machine-Python/dp/1783281936) by Raúl Garreta, Guillermo Moncecchi
 - [Machine Learning in Action](https://www.amazon.fr/Machine-Learning-Action-Peter-Harrington/dp/1617290181) by Peter Harrington
-- [Machine Learning: An Algorithmic Perspective]() by Stephen Marsland
-- [Machine Learning For Dummies]()
-- [Machine Learning: The New AI]()
-- [Machine Learning: The Art and Science of Algorithms that Make Sense of Data]()
-- [Python Machine Learning]()
-- [Data Science from Scratch: First Principles with Python]()
-- [Make Your Own Neural Network]()
-- [Fundamentals of Machine Learning for Predictive Data Analytics]()
-- [Matrix Computations]()
-- [A Probabilistic Theory of Pattern Recognition]()
-- [Advanced Engineering Mathematics]()
-- [Probability and Statistics Cookbook]()
-- [Bayesian Reasoning and Machine Learning]()
-- [Information Theory, Inference, and Learning Algorithms]()
-- [Neural Networks and Deep Learning]()
-- [Supervised Sequence Labelling with Recurrent Neural Networks]()
-- [Reinforcement Learning: An Introduction]()
+- [Machine Learning For Dummies](https://www.amazon.fr/Machine-Learning-Dummies-John-Mueller/dp/1119245516) by John Paul Mueller and Luca Massaron
+- [Machine Learning: The New AI](https://www.amazon.com/Machine-Learning-Press-Essential-Knowledge/dp/0262529513) by Ethem Alpaydin
+- [Machine Learning: The Art and Science of Algorithms that Make Sense of Data](https://www.amazon.fr/Machine-Learning-Science-Algorithms-Sense/dp/1107422221) by Peter Flach
+- [Make Your Own Neural Network](https://www.amazon.com/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G) by Tariq Rashid
+- [Fundamentals of Machine Learning for Predictive Data Analytics](https://www.amazon.com/Fundamentals-Machine-Learning-Predictive-Analytics/dp/0262029448) by John D. Kelleher, Brian Mac Namee and Aoife D'Arcy
+- [Matrix Computations](https://www.amazon.fr/Matrix-Computations-Gene-H-Golub/dp/1421407949) by Gene H. Golub and Charles F. Van Loan
+- [A Probabilistic Theory of Pattern Recognition](https://www.amazon.com/Probabilistic-Recognition-Stochastic-Modelling-Probability/dp/0387946187) by Luc Devroye, Laszlo Györfi, Gabor Lugosi
+- [Advanced Engineering Mathematics](https://www.amazon.fr/Advanced-Engineering-Mathematics-Erwin-Kreyszig/dp/0470458364) by Erwin Kreyszig
+- [Probability and Statistics Cookbook](http://statistics.zone/) by Matthias Vallentin
+- [Bayesian Reasoning and Machine Learning](https://www.amazon.com/Bayesian-Reasoning-Machine-Learning-Barber/dp/0521518148) by David Barber
+- [Information Theory, Inference, and Learning Algorithms](https://www.amazon.fr/Information-Theory-Inference-Learning-Algorithms/dp/0521642981) by de David J. C. MacKay
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
+- [Supervised Sequence Labelling with Recurrent Neural Networks](https://www.amazon.com/Supervised-Labelling-Recurrent-Computational-Intelligence/dp/3642247962) by Alex Graves
+- [Reinforcement Learning: An Introduction](https://www.amazon.fr/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262193981) by Richard Sutton
 
 ### Algorithms
 #### General

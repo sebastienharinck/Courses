@@ -18,10 +18,11 @@ They concerned :
 I try to put here all available ressources on internet that I found useful.
 
 ### Official documentation
-- [scrapy](https://scrapy.org/)
 - [tensorflow](https://www.tensorflow.org/)
 - [keras](https://keras.io/)
+- [numpy](https://docs.scipy.org/doc/)
 - [pandas](https://pandas.pydata.org/pandas-docs/stable/)
+- [scrapy](https://scrapy.org/)
 - [matplotlib](https://matplotlib.org/contents.html)
 
 ### References

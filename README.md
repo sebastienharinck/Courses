@@ -157,6 +157,7 @@ I try to put here all available ressources on internet that I found useful.
 - https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0
 - https://www.coursera.org/learn/machine-learning/
 - https://www.coursera.org/learn/neural-networks
+- https://eu.udacity.com/
 - https://www.dataquest.io/
 - https://www.quora.com/What-are-the-best-regularly-updated-machine-learning-blogs-or-resources-available
 - http://deeplearning.net/
@@ -164,6 +165,7 @@ I try to put here all available ressources on internet that I found useful.
 - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/
 - http://course.fast.ai/
 - https://codelabs.developers.google.com/codelabs/cpb102-txf-learning/index.html?index=..%2F..%2Findex#0
+- https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf
 
 ### Algorithms
 #### CNN
@@ -177,6 +179,14 @@ I try to put here all available ressources on internet that I found useful.
 
 ### Repositories
 - https://github.com/arcyfelix/Courses
+
+#### Gans
+- https://github.com/wiseodd/generative-models
+- http://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/
+
+#### text2img
+- https://github.com/paarthneekhara/text-to-image
+
 #### pix2code
 - https://github.com/emilwallner/Screenshot-to-code-in-Keras/blob/master/README.md
 
@@ -192,3 +202,5 @@ I try to put here all available ressources on internet that I found useful.
 - https://www.kernix.com/blog/an-efficient-recommender-system-based-on-graph-database_p9
 - https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3
 - https://stackoverflow.com/questions/37353759/how-do-i-generate-an-adjacency-matrix-of-a-graph-from-a-dictionary-in-python
+- https://security.stackexchange.com/questions/135211/can-a-neural-network-crack-hashing-algorithms
+- https://www.ted.com/talks/jim_simons_a_rare_interview_with_the_mathematician_who_cracked_wall_street#t-1375411

@@ -111,28 +111,23 @@ I try to put here all available ressources on internet that I found useful.
 ### Algorithms
 #### General
 - https://github.com/arcyfelix/Courses
-#### CNN
-#### pix2code
+#### Pix2code
 - https://blog.floydhub.com/Turning-design-mockups-into-code-with-deep-learning/
 - https://airbnb.design/sketching-interfaces/
-
-#### pix2code
 - https://arxiv.org/abs/1705.07962
+- https://github.com/emilwallner/Screenshot-to-code-in-Keras/blob/master/README.md
 
 #### Gans
 - https://github.com/wiseodd/generative-models
 - http://wiseodd.github.io/techblog/2016/09/17/gan-tensorflow/
 
-#### text2img
+#### Text2img
 - https://github.com/paarthneekhara/text-to-image
 
-#### pix2code
-- https://github.com/emilwallner/Screenshot-to-code-in-Keras/blob/master/README.md
-
-#### python
+#### Python
 - https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/
 
-#### scrapy
+#### Scrapy
 - https://www.analyticsvidhya.com/blog/2017/07/web-scraping-in-python-using-scrapy/
 
 #### Unity Machine Learning
@@ -141,7 +136,7 @@ I try to put here all available ressources on internet that I found useful.
 #### Machine Learning
 - http://ruder.io/optimizing-gradient-descent/index.html#rmsprop
 
-##### Image classifiers
+#### Image classifiers
 - https://m.oursky.com/using-tensorflow-and-support-vector-machine-to-create-an-image-classifications-engine-7ee51b5617d5
 - https://hackernoon.com/creating-insanely-fast-image-classifiers-with-mobilenet-in-tensorflow-f030ce0a2991
 - https://hackernoon.com/building-an-insanely-fast-image-classifier-on-android-with-mobilenets-in-tensorflow-dc3e0c4410d4
@@ -153,19 +148,13 @@ I try to put here all available ressources on internet that I found useful.
 - http://blog.bitfusion.io/2016/08/31/training-a-bird-classifier-with-tensorflow-and-tflearn
 - https://medium.com/initialized-capital/we-need-to-go-deeper-a-practical-guide-to-tensorflow-and-inception-50e66281804f
 - https://boingboing.net/tag/machine-learning
-- __https://boingboing.net/2018/01/18/declassified-classifier.html__
+- https://boingboing.net/2018/01/18/declassified-classifier.html
 
-##### Style Transfers
+#### Style Transfers
 - https://github.com/lengstrom/fast-style-transfer
 
-#### gcloud
+#### Gcloud
 - https://medium.com/google-cloud/running-jupyter-notebooks-on-gpu-on-google-cloud-d44f57d22dbd
-
-#### Mathematics
-
-#### Tensorflow
-
-#### Keras
 
 ### Others
 - https://futurism.com/an-ai-can-recreate-your-favorite-old-school-video-game-just-by-watching-someone-play-it/

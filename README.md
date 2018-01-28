@@ -166,6 +166,7 @@ I try to put here all available ressources on internet that I found useful.
 - http://course.fast.ai/
 - https://codelabs.developers.google.com/codelabs/cpb102-txf-learning/index.html?index=..%2F..%2Findex#0
 - https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf
+- https://deeplearning4j.org/deeplearningforbeginners.html
 
 ### Algorithms
 #### CNN

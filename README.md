@@ -67,7 +67,7 @@ I try to put here all available ressources on internet that I found useful.
 
 ### Books
 - [Amazon books](https://www.amazon.com/Best-Sellers-Books-AI-Machine-Learning/zgbs/books/3887)
-- https://www.amazon.com/How-Create-Mind-Thought-Revealed-ebook/dp/B007V65UUG/ref=zg_bs_3887_2?_encoding=UTF8&psc=1&refRID=RMYJMMVF628704GC4ANT : 
+- [How to Create a Mind: The Secret of Human Thought Revealed](https://www.amazon.com/How-Create-Mind-Thought-Revealed-ebook/dp/B007V65UUG/ref=zg_bs_3887_2?_encoding=UTF8&psc=1&refRID=RMYJMMVF628704GC4ANT) by Ray Kurzweil 
 - [Data Science from]() Scratch by Joel Grus
 - [Machine Learning: An Algorithmic Perspective]() by Stephen Marsland, 
 - [Python Machine Learning]() by Sebastian Raschka
@@ -75,7 +75,7 @@ I try to put here all available ressources on internet that I found useful.
 - [Artificial Intelligence: A Modern Approach, 3rd Edition]() by Stuart Russell and Peter Norvig, 
 - [Programming Collective Intelligence]()
 - [Machine Learning for Hackers]()
-- [Machine Learning by Tom M Mitchell
+- [Machine Learning]() by Tom M Mitchell
 - [The Elements of Statistical Learning]()
 - [Learning from Data]()
 - [Pattern Recognition and Machine Learning]()
@@ -94,7 +94,7 @@ I try to put here all available ressources on internet that I found useful.
 - [Mining of Massive Datasets]()
 - [Machine Learning Yearning]()
 - [Building Machine Learning Systems with Python]() by Willi Richert, Luis Pedro Coelho
-- [Learning scikit-l[earn: Machine Learning in Python]() by Raúl Garreta, Guillermo Moncecchi
+- [Learning scikit-learn: Machine Learning in Python]() by Raúl Garreta, Guillermo Moncecchi
 - [Machine Learning in Action]() by Peter Harrington
 - [Machine Learning: An Algorithmic Perspective]() by Stephen Marsland
 - [Machine Learning For Dummies]()
@@ -107,7 +107,7 @@ I try to put here all available ressources on internet that I found useful.
 - [Matrix Computations]()
 - [A Probabilistic Theory of Pattern Recognition]()
 - [Advanced Engineering Mathematics]()
-- [robability and Statistics Cookbook]()
+- [Probability and Statistics Cookbook]()
 - [Bayesian Reasoning and Machine Learning]()
 - [Information Theory, Inference, and Learning Algorithms]()
 - [Neural Networks and Deep Learning]()

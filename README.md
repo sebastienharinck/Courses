@@ -28,6 +28,10 @@ I try to put here all available ressources on internet that I found useful.
 #### others
 - https://scrapoxy.io/
 
+### references
+- https://hackernoon.com/index-of-best-ai-machine-learning-resources-71ba0c73e34d
+- http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html
+
 ### data
 - https://www.kaggle.com/
 - http://archive.ics.uci.edu/ml/index.php
@@ -62,6 +66,20 @@ I try to put here all available ressources on internet that I found useful.
 
 #### Machine Learning
 - http://ruder.io/optimizing-gradient-descent/index.html#rmsprop
+
+##### Image classifiers
+- https://m.oursky.com/using-tensorflow-and-support-vector-machine-to-create-an-image-classifications-engine-7ee51b5617d5
+- https://hackernoon.com/creating-insanely-fast-image-classifiers-with-mobilenet-in-tensorflow-f030ce0a2991
+- https://hackernoon.com/building-an-insanely-fast-image-classifier-on-android-with-mobilenets-in-tensorflow-dc3e0c4410d4
+- https://www.kernix.com/blog/image-classification-with-a-pre-trained-deep-neural-network_p11
+- https://kwotsin.github.io/tech/2017/02/11/transfer-learning.html
+- https://github.com/kwotsin/transfer_learning_tutorial/blob/master/train_flowers.py
+- https://medium.com/google-cloud/keras-inception-v3-on-google-compute-engine-a54918b0058
+- https://hackernoon.com/deep-learning-cnns-in-tensorflow-with-gpus-cba6efe0acc2
+- http://blog.bitfusion.io/2016/08/31/training-a-bird-classifier-with-tensorflow-and-tflearn
+- https://medium.com/initialized-capital/we-need-to-go-deeper-a-practical-guide-to-tensorflow-and-inception-50e66281804f
+- https://boingboing.net/tag/machine-learning
+- __https://boingboing.net/2018/01/18/declassified-classifier.html__
 
 #### gcloud
 - https://medium.com/google-cloud/running-jupyter-notebooks-on-gpu-on-google-cloud-d44f57d22dbd
@@ -142,6 +160,7 @@ I try to put here all available ressources on internet that I found useful.
 - https://github.com/ageron/handson-ml
 - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/
 - http://course.fast.ai/
+- https://codelabs.developers.google.com/codelabs/cpb102-txf-learning/index.html?index=..%2F..%2Findex#0
 
 ### Algorithms
 #### CNN

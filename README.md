@@ -123,6 +123,7 @@ I try to put here all available ressources on internet that I found useful.
 - https://www.dataquest.io/
 - https://www.quora.com/What-are-the-best-regularly-updated-machine-learning-blogs-or-resources-available
 - http://deeplearning.net/
+- https://github.com/ageron/handson-ml
 
 ### Algorithms
 #### CNN

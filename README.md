@@ -18,11 +18,11 @@ They concerned :
 I try to put here all available ressources on internet that I found useful.
 
 ### Official documentation
-- scrapy
-- tensorflow
-- keras
-- pandas
-- matplotlib
+- [scrapy](https://scrapy.org/)
+- [tensorflow](https://www.tensorflow.org/)
+- [keras](https://keras.io/)
+- [pandas](https://pandas.pydata.org/pandas-docs/stable/)
+- [matplotlib](https://matplotlib.org/contents.html)
 
 ### References
 - https://hackernoon.com/index-of-best-ai-machine-learning-resources-71ba0c73e34d

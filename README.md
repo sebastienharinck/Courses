@@ -42,6 +42,7 @@ I try to put here all available ressources on internet that I found useful.
 - https://www.reddit.com/r/datasets/
 
 ### AI Solutions
+- https://cloud.google.com/products/machine-learning/
 - https://www.clarifai.com/
 
 ### People to follow
@@ -65,6 +66,9 @@ I try to put here all available ressources on internet that I found useful.
 - https://codelabs.developers.google.com/codelabs/cpb102-txf-learning/index.html?index=..%2F..%2Findex#0
 - https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf
 - https://deeplearning4j.org/deeplearningforbeginners.html
+- https://www.youtube.com/watch?v=vq2nnJ4g6N0&t=854s or in french https://www.youtube.com/watch?v=BtAVBeLuigI
+- https://www.youtube.com/watch?v=Otr-epDknd0&list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ
+- https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
 
 ### Books
 - [Amazon books](https://www.amazon.com/Best-Sellers-Books-AI-Machine-Learning/zgbs/books/3887)

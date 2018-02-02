@@ -34,7 +34,6 @@ I try to put here all available ressources on internet that I found useful.
 - http://archive.ics.uci.edu/ml/index.php
 - https://www.kaggle.com/datasets
 - https://aws.amazon.com/fr/datasets/
-- https://aws.amazon.com/fr/datasets/
 - https://opendatamonitor.eu/frontend/web/index.php?r=dashboard%2Findex
 - https://www.quandl.com/
 - https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research

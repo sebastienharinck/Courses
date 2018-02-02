@@ -116,6 +116,8 @@ I try to put here all available ressources on internet that I found useful.
 ### Algorithms
 #### General
 - https://github.com/arcyfelix/Courses
+- https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11
+- https://towardsdatascience.com/the-8-neural-network-architectures-machine-learning-researchers-need-to-learn-11a0c96d6073
 #### Pix2code
 - https://blog.floydhub.com/Turning-design-mockups-into-code-with-deep-learning/
 - https://airbnb.design/sketching-interfaces/

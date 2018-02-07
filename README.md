@@ -12,7 +12,14 @@ They concerned :
 - mathematics stuff
 
 ## All courses
+- Google developers
 - Hands-on Machine Learning with Scikit-learn and TensorFlow
+- Kaggle
+- Matplotlib
+- MNIST
+- notMNIST
+- Scrapy Utils
+- Tensorboard
 
 ## Links
 I try to put here all available ressources on internet that I found useful.

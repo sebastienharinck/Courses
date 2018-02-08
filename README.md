@@ -121,6 +121,9 @@ I try to put here all available ressources on internet that I found useful.
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
 - [Supervised Sequence Labelling with Recurrent Neural Networks](https://www.amazon.com/Supervised-Labelling-Recurrent-Computational-Intelligence/dp/3642247962) by Alex Graves
 - [Reinforcement Learning: An Introduction](https://www.amazon.fr/Reinforcement-Learning-Introduction-Richard-Sutton/dp/0262193981) by Richard Sutton
+- [Introduction to Machine Learning with Python: A Guide for Data Scientists](https://www.amazon.com/gp/product/1449369413/ref=as_li_tl?ie=UTF8&tag=kaggle-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1449369413&linkId=740510c3199892cca1632fe738fb8d08) by Andreas C. Müller and Sarah Guido 
+- [Visualize This: The FlowingData Guide to Design, Visualization, and Statistics](https://www.amazon.com/gp/product/0470944889/ref=as_li_tl?ie=UTF8&tag=kaggle-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0470944889&linkId=f797da48813ed5cfc762ce5df8ef957f) by Nathan Yau
+
 
 ### Algorithms
 #### General

@@ -77,6 +77,7 @@ I try to put here all available ressources on internet that I found useful.
 - https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v
 - https://www.college-de-france.fr/site/yann-lecun/course-2016-02-12-14h30.htm (french)
 - https://www.kaggle.com/ldfreeman3/a-data-science-framework-to-achieve-99-accuracy
+- http://jessica2.msri.org/attachments/10778/10778-boost.pdf
 
 ### Books
 - [Amazon books](https://www.amazon.com/Best-Sellers-Books-AI-Machine-Learning/zgbs/books/3887)

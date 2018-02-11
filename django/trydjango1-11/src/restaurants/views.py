@@ -7,10 +7,8 @@ def home(request):
     rand = random.randint(0, 1000)
     return render(request, 'base.html', {'random': rand})
 
-def home2(request):
-    rand = random.randint(0, 1000)
-    return render(request, 'home2.html', {'random': rand})
+def about(request):
+    return render(request, 'about.html', {})
 
-def home3(request):
-    rand = random.randint(0, 1000)
-    return render(request, 'home3.html', {'random': rand})
+def contact(request):
+    return render(request, 'contact.html', {})

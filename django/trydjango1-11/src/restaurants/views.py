@@ -2,4 +2,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def home(request):
-    return HttpResponse("Hello")
+    return render(request, 'base.html', {'var': 'my custom variable'})

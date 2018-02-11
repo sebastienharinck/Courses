@@ -1,5 +1,8 @@
+import random
+
 from django.shortcuts import render
 from django.http import HttpResponse
 
 def home(request):
-    return render(request, 'base.html', {'var': 'my custom variable'})
+    rand = random.randint(0, 1000)
+    return render(request, 'base.html', {'random': rand})

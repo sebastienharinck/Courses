@@ -1,6 +1,6 @@
 from django.db.models import Q
 from django.shortcuts import render
-from django.views.generic import ListView
+from django.views.generic import ListView, DetailView
 
 from .models import Restaurant
 
@@ -28,3 +28,13 @@ class RestaurantListView(ListView):
         else:
             queryset = Restaurant.objects.all()
         return queryset
+
+
+class RestaurantDetailView(DetailView):
+    queryset = Restaurant.objects.all()
+
+    def get_context_data(self, *args, **kwargs):
+        print(kwargs)
+        context = super(RestaurantDetailView, self).get_context_data(*args, **kwargs)
+        print(context)
+        return context

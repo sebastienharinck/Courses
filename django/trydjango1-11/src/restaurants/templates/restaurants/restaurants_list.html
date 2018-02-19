@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>Restaurant list</h1>
+
+    <ul>
+        {% for item in object_list %}
+            <li>{{ item.name }} {{ item.location }} {{ item.category }} {{ item.timestamp }} {{ item.updated }}</li>
+        {% endfor %}
+    </ul>
+{% endblock %}

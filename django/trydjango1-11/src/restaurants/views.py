@@ -1,10 +1,13 @@
-from django.views.generic import TemplateView
+from django.shortcuts import render
+
+from .models import Restaurant
 
 
-class HomeView(TemplateView):
-    template_name = 'home.html'
+def restaurant_listview(request):
+    template_name = 'restaurants/restaurants_list.html'
+    queryset = Restaurant.objects.all()
+    context = {
+        'object_list': queryset,
 
-    def get_context_data(self, *args, **kwargs):
-        context = super(HomeView, self).get_context_data(*args, **kwargs)
-        print(context)
-        return context
+    }
+    return render(request, template_name, context)

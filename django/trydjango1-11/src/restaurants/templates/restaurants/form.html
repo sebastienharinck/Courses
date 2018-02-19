@@ -3,8 +3,8 @@
 {% block content %}
     <h1>Add Restaurant</h1>
 
-{% if errors %}
-    {{ errors }}
+{% if forms.errors %}
+    {{ forms.errors }}
 {% endif %}
 
 <form action="" method="POST">
@@ -12,8 +12,6 @@
     {{ form.as_p }}
     <button type="submit">Save</button>
 </form>
-
-
 
 
 {% endblock %}

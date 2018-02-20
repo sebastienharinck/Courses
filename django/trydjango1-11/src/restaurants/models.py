@@ -2,11 +2,13 @@ from django.db import models
 from django.db.models.signals import pre_save, post_save
 from django.utils.text import slugify
 
+from .validators import validate_category
+
 
 class Restaurant(models.Model):
     name = models.CharField(max_length=120)
     location = models.CharField(max_length=120, null=True, blank=True)
-    category = models.CharField(max_length=120, null=True, blank=True)
+    category = models.CharField(max_length=120, null=True, blank=True, validators=[validate_category])
     timestamp = models.DateTimeField(auto_now_add=True)
     updated = models.DateTimeField(auto_now=True)
     slug = models.SlugField(blank=True, unique=True)

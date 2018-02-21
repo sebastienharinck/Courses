@@ -17,6 +17,11 @@ class RestaurantCreateView(LoginRequiredMixin, CreateView):
         instance.owner = self.request.user  # not the best, should be in pre_save
         return super(RestaurantCreateView, self).form_valid(form)
 
+    def get_context_data(self, *args, **kwargs):
+        context = super(RestaurantCreateView, self).get_context_data(*args, **kwargs)
+        context['title'] = 'Add Restaurant'
+        return context
+
 
 def restaurant_listview(request):
     template_name = 'restaurants/restaurants_list.html'

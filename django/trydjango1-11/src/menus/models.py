@@ -1,5 +1,6 @@
 from django.conf import settings
 from django.db import models
+from django.shortcuts import reverse
 
 
 from restaurants.models import Restaurant
@@ -25,3 +26,6 @@ class Item(models.Model):
 
     def get_excludes(self):
         return self.excludes.split(',')
+
+    def get_absolute_url(self):
+        return reverse('menus:detail', kwargs={'pk': self.pk})

@@ -9,7 +9,7 @@ from .models import Restaurant
 
 class RestaurantCreateView(LoginRequiredMixin, CreateView):
     form_class = RestaurantCreateForm
-    template_name = 'restaurants/form.html'
+    template_name = 'form.html'
     success_url = '/restaurants'
 
     def form_valid(self, form):

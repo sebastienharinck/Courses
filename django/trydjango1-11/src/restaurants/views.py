@@ -11,6 +11,11 @@ class RestaurantCreateView(CreateView):
     template_name = 'restaurants/form.html'
     success_url = '/restaurants'
 
+    def form_valid(self, form):
+        instance = form.save(commit=False)
+        instance.owner = self.request.user  # not the best, should be in pre_save
+        return super(RestaurantCreateView, self).form_valid(form)
+
 
 def restaurant_listview(request):
     template_name = 'restaurants/restaurants_list.html'

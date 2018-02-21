@@ -1,3 +1,4 @@
+from django.contrib.auth.mixins import LoginRequiredMixin
 from django.db.models import Q
 from django.shortcuts import render
 from django.views.generic import ListView, DetailView, CreateView
@@ -6,7 +7,7 @@ from .forms import RestaurantCreateForm
 from .models import Restaurant
 
 
-class RestaurantCreateView(CreateView):
+class RestaurantCreateView(LoginRequiredMixin, CreateView):
     form_class = RestaurantCreateForm
     template_name = 'restaurants/form.html'
     success_url = '/restaurants'

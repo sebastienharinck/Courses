@@ -1,7 +1,7 @@
 {% extends 'base.html' %}
 
 {% block content %}
-    <h1>Menu Items list</h1>
+    <h1>Menu Items list <small><a href="{% url 'menus:create' %}">Add Item </a></small></h1>
 
     <ul>
         {% for item in object_list %}
@@ -24,6 +24,8 @@
                     </ul>
                 {% endif %}
             </li>
+        {% empty %}
+            <li><a href="{% url 'menus:create' %}">Add item</a></li>
         {% endfor %}
     </ul>
 {% endblock %}

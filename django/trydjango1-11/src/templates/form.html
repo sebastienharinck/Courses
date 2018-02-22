@@ -3,14 +3,6 @@
 {% block content %}
     <h1>{{ title }}</h1>
 
-{% if forms.errors %}
-    {{ forms.errors }}
-{% endif %}
-
-<form action="" method="POST">
-    {% csrf_token %}
-    {{ form.as_p }}
-    <button type="submit">Save</button>
-</form>
+{% include 'snippets/form-snippet.html' %}
 
 {% endblock %}

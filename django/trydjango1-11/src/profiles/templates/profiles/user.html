@@ -2,9 +2,14 @@
 
 {% block content %}
     <h1>{{ user.username }}</h1>
+    <form action="." class="form" method="GET">
+        <input type="text" placeholder="Search" name="q" value="{{ request.GET.q }}">
+        <button class="btn btn-default" type="submit">Search</button>
+    </form>
+
     <hr>
 
-    {% for restaurant in user.restaurant_set.all %}
+    {% for restaurant in locations %}
         <div class="row">
             <div class="col-sm-12" style="border: 1px solid #ccc; border-radius: 5px; margin-bottom: 15px;">
                 <h4>{{ restaurant.name }}</h4>
@@ -27,7 +32,6 @@
     {% empty %}
         <p>no restaurants added yet.</p>
     {% endfor %}
-    </div>
 
 
     {{ user.restaurant_set.all }}

@@ -22,9 +22,7 @@ class ProfileDetailView(DetailView):
         user = context['user']
         query = self.request.GET.get('q')
         items_exists = Item.objects.filter(user=user).exists()
-        qs = Restaurant.objects.filter(owner=user)
-        if query:
-            qs = qs.filter(name__icontains=query)
+        qs = Restaurant.objects.filter(owner=user).search(query)
         if items_exists and qs.exists():
             context['locations'] = qs
         return context

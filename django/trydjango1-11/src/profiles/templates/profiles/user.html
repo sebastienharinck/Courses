@@ -21,6 +21,9 @@
                         {% for item in restaurant.item_set.all %}
                         <li style="margin-bottom: 15px">{{ item.name }}<br>
                             Contains : {{ item.contents }}
+                            {% for ing in item.get_contents %}
+                                <a href="{{ request.path }}?q={{ing}}">{{ ing }}</a>
+                            {% endfor %}
                             </ul>
                         </li>
                         {% endfor %}
@@ -32,9 +35,5 @@
     {% empty %}
         <p>no restaurants added yet.</p>
     {% endfor %}
-
-
-    {{ user.restaurant_set.all }}
-    {{ user.item_set.all }}
 
 {% endblock %}

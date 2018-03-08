@@ -4,29 +4,31 @@
     <h1>{{ user.username }}</h1>
     <hr>
 
-    <ul>
-        {% for restaurant in user.restaurant_set.all %}
-            <li>{{ restaurant.name }} | {{ restaurant.location }} | {{ restaurant.category }}
-                <br>
-                <b>Items</b>
-                <ul>
-                    {% for item in restaurant.item_set.all %}
+    {% for restaurant in user.restaurant_set.all %}
+        <div class="row">
+            <div class="col-sm-12" style="border: 1px solid #ccc; border-radius: 5px; margin-bottom: 15px;">
+                <h4>{{ restaurant.name }}</h4>
+                <p>{{ restaurant.location }} | {{ restaurant.category }}</p>
+                <div class="thumbnail">
+                    <br>
+                    <b>Items</b>
+                    <ul>
+                        {% for item in restaurant.item_set.all %}
                         <li style="margin-bottom: 15px">{{ item.name }}<br>
-                            <ul>
-                                {% for ing in item.get_contents %}
-                                    <span style="padding: 4px 2px; margin-right: 4px; background-color: #ccc">
-                                        {{ ing }}
-                                    </span>
-                                {% endfor %}
+                            Contains : {{ item.contents }}
                             </ul>
                         </li>
-                    {% endfor %}
-                </ul>
-            </li>
-        {% empty %}
-            <p>no restaurants added yet.</p>
-        {% endfor %}
-    </ul>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <hr>
+    {% empty %}
+        <p>no restaurants added yet.</p>
+    {% endfor %}
+    </div>
+
 
     {{ user.restaurant_set.all }}
     {{ user.item_set.all }}

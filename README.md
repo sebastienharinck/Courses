@@ -55,6 +55,7 @@ I try to put here all available ressources on internet that I found useful.
 - Siraj Raval
 - Yann LeCun
 - SendTex
+- https://www.youtube.com/watch?v=er8RQZoX3yk&list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ
 - https://petewarden.com/
 - https://lukasbiewald.com/
 

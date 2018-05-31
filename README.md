@@ -178,6 +178,7 @@ I try to put here all available ressources on internet that I found useful.
 - https://medium.com/google-cloud/running-jupyter-notebooks-on-gpu-on-google-cloud-d44f57d22dbd
 
 ### Corrupted data
+- [Cleaning up incorrectly labeled data](https://www.coursera.org/learn/machine-learning-projects/lecture/IGRRb/cleaning-up-incorrectly-labeled-data)
 - [Identifying Mislabeled Training Data](https://arxiv.org/pdf/1106.0219.pdf)
 - [Using Trusted Data to Train Deep Networks on Labels Corrupted by Severe Noise](https://arxiv.org/pdf/1802.05300.pdf)
 - [Learning to Classify with Missing and Corrupted Features](https://www.utdallas.edu/~muratk/courses/dmsec_files/202.pdf)
